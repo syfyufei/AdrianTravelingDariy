@@ -1,0 +1,14 @@
+{
+  "hash": "d3c53ff61f3486d69a696d80d549adc1",
+  "result": {
+    "markdown": "# Thailand: 要什麼國家能力！\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

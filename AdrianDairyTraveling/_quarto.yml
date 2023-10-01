@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "Adrian Dairy Traveling"
+  author: "Norah Jones"
+  date: "6/22/2023"
+  chapters:
+    - index.qmd
+    - Malaysia.qmd
+    - Thailand.qmd
+    - Vietnam.qmd
+    - UAE.qmd
+    - Netherlands.qmd
+    - Balgium.qmd
+    - Japan.qmd
+    - Korea.qmd
+    - references.qmd
+
+bibliography: AdrianDairyTraveling.bib
+
+format:
+  html:
+    theme: cosmo
+#  pdf:#   documentclass: ctexart#   papersize: a4#   keep-md: true#   keep-tex: false
+
+editor: visual
+
+prefer-html: true

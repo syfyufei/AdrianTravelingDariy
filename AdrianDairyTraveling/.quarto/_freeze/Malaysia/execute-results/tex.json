@@ -1,0 +1,20 @@
+{
+  "hash": "7d2aa103fb3d32b4f9cd1102ba5a3309",
+  "result": {
+    "markdown": "# Malaysia: 原來他們生活的這麼自由\n\n\n\n\n",
+    "supporting": [
+      "Malaysia_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "hash": "4027754b9dd652e9aefe1d8133ba363e",
+  "result": {
+    "markdown": "# UAE: 熱\n\n\n\n\n",
+    "supporting": [
+      "UAE_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

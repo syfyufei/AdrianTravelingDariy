@@ -1,0 +1,10 @@
+# Thailand: 要什麼國家能力！
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, output = TRUE, warning = FALSE)
+if (!require(pacman)) install.packages("pacman")
+library(pacman)
+
+p_load(ggplot2)
+
+```

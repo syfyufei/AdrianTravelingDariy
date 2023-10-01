@@ -1,0 +1,12 @@
+# Belgium: Not that poor but so SEXY
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, output = TRUE, warning = FALSE)
+if (!require(pacman)) install.packages("pacman")
+library(pacman)
+
+p_load(ggplot2)
+
+```
+
+

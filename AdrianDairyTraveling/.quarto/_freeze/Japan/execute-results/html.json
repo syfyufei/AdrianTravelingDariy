@@ -1,0 +1,14 @@
+{
+  "hash": "fbd44a6c390a5caaf7558d53400e078d",
+  "result": {
+    "markdown": "# JAPAN\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
