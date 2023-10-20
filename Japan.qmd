@@ -23,6 +23,38 @@ p_load(ggplot2)
 
 在办日本签证的时候，正是日本准备将福岛核废水排进太平洋的时候，彼时的日本在中国官方媒体和官方主导的社会舆论中舆论差到了谷底， 连日本大使馆也被中国各级安全保卫力量（红袖标、警察、武警）保卫的滴水不漏， 让去递签的我充满了压力哈哈哈哈哈哈。 但也因此日本签证的代理费也大大缩水，单次的旅行签证只需要200余元。
 
-!["日本核污水排海"影响下重兵把守的日本国驻北京大使馆](https://i.imgur.com/0tuUpGy.jpg) {#fig-JapanEmbassy} 
+!["日本核污水排海"影响下重兵把守的日本国驻北京大使馆](https://i.imgur.com/0tuUpGy.jpg){#fig-JapanEmbassy} 
 
-### 旅程
+### 行前准备
+
+![](https://i.imgur.com/SoZF9FX.png){#fig-DaySummary} 
+
+## 第一日：大阪
+
+### To do
+
+- [ ] 入境JR PASS贴纸
+
+- [ ] 买第二天的火车票
+
+### 住宿
+
+### 正餐
+
+### 行程
+
+✈️ UO898 香港-大阪 11:50 AM - 4:20 PM
+
+🚆 大阪机场-大阪 5:00 PM - 6:30 PM
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d210305.79277263072!2d135.21352907814972!3d34.552846134446725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x6000b91323cdfaf7%3A0xf171a79f8d908f88!2z5pel5pys5aSn6Ziq5bqc5rOJ5L2Q6YeO5biCIFNlbnNoxatrxatrxY1raXRhLCAx5YWz6KW_5Zu96ZmF5py65Zy6IChLSVgp!3m2!1d34.434863899999996!2d135.2328698!4m5!1s0x6000e65fe630e79d%3A0x8f280adc19c4ecbf!2sGuesthouse%20U-en%2C%202%20Chome-9-23%20Fukushima%2C%20Fukushima%20Ward%2C%20Osaka%2C%20553-0003%E6%97%A5%E6%9C%AC!3m2!1d34.694642699999996!2d135.486586!5e0!3m2!1szh-TW!2sus!4v1697776744088!5m2!1szh-TW!2sus" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+🥣 Isaribi 炉ばた焼 漁火(いさりび)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6560.370318887229!2d135.48695450051125!3d34.70050949167895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6000e65fe630e79d%3A0x8f280adc19c4ecbf!2sGuesthouse%20U-en%2C%202%20Chome-9-23%20Fukushima%2C%20Fukushima%20Ward%2C%20Osaka%2C%20553-0003%E6%97%A5%E6%9C%AC!3m2!1d34.694642699999996!2d135.486586!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2zUm9iYXRheWFraSBJc2FyaWJpLCAxIENob21lLTUtMTIgU2hpYmF0YSwg5YyX5Y2A5aSn6Ziq5biC5aSn6Ziq5bqc5pel5pys!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sus!4v1697779928147!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+![](https://i.imgur.com/mGwTlAI.png){#fig-1stDayDinner}
+
+<iframe width="1280" height="640" src="https://www.youtube.com/embed/JaRlwGzJS-g" title="🇯🇵🗻最夢幻的富士山景點玩法，超簡單河口湖一日路線懶人包｜老辣妹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**預算**
