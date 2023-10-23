@@ -27,7 +27,7 @@ p_load(ggplot2)
 
 ### 行前准备
 
-![](https://i.imgur.com/SoZF9FX.png){#fig-DaySummary} 
+![](https://s2.loli.net/2023/10/23/cqZ7ds8hLUGfiSg.png){#fig-DaySummary}
 
 ## 第一日：大阪
 
