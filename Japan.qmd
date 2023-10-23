@@ -29,25 +29,29 @@ p_load(ggplot2)
 
 ![](https://s2.loli.net/2023/10/23/cqZ7ds8hLUGfiSg.png){#fig-DaySummary}
 
-## 第一日：大阪
+## 第一日：大阪 Osaka
 
 ### To do
 
 - [ ] 入境JR PASS贴纸
 
-- [ ] 买第二天的火车票
+- [ ] [取Sunrise-Seto (SOLO)車票](https://www.westjr.co.jp/global/tc/howto/train-reservation/receive/)
 
 ### 住宿
 
-### 正餐
+OSAKA -> YOKOHAMA
+
+00:33 - 06:44
+
+Sunrise-Seto (SOLO) 出雲號 10 號車 8號 B臥舖/禁菸包廂
 
 ### 行程
 
 ✈️ UO898 香港-大阪 11:50 AM - 4:20 PM
 
-🚆 大阪机场-大阪 5:00 PM - 6:30 PM
+🚆 大阪机场-いさりび 5:00 PM - 6:30 PM
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d210305.79277263072!2d135.21352907814972!3d34.552846134446725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x6000b91323cdfaf7%3A0xf171a79f8d908f88!2z5pel5pys5aSn6Ziq5bqc5rOJ5L2Q6YeO5biCIFNlbnNoxatrxatrxY1raXRhLCAx5YWz6KW_5Zu96ZmF5py65Zy6IChLSVgp!3m2!1d34.434863899999996!2d135.2328698!4m5!1s0x6000e65fe630e79d%3A0x8f280adc19c4ecbf!2sGuesthouse%20U-en%2C%202%20Chome-9-23%20Fukushima%2C%20Fukushima%20Ward%2C%20Osaka%2C%20553-0003%E6%97%A5%E6%9C%AC!3m2!1d34.694642699999996!2d135.486586!5e0!3m2!1szh-TW!2sus!4v1697776744088!5m2!1szh-TW!2sus" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d210321.4937917975!2d135.213529077454!3d34.546633993613405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x6000b91323cdfaf7%3A0xf171a79f8d908f88!2z6Zec6KW_5ZyL6Zqb5qmf5aC0IChLSVgpMSBTZW5zaHVrdWtva2l0YSwgSXp1bWlzYW5vLCBPc2FrYSA1NDktMDAwMQ!3m2!1d34.434863899999996!2d135.2328698!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2z5aSn6Ziq5bqc5aSn6Ziq5biC5YyX5Y2AIFNoaWJhdGEsIDEgQ2hvbWXiiJI14oiSMTIg54KJ44Gw44Gf54S8IOa8geeBqyjjgYTjgZXjgorjgbMp!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sjp!4v1698050096711!5m2!1szh-TW!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 🥣 Isaribi 炉ばた焼 漁火(いさりび)
 
@@ -55,6 +59,21 @@ p_load(ggplot2)
 
 ![](https://i.imgur.com/mGwTlAI.png){#fig-1stDayDinner}
 
+🥃 C.STAND
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d820.0239158754238!2d135.5026602!3d34.702767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71ae1f13399%3A0x63331607da454923!2sC.STAND!5e0!3m2!1szh-TW!2sus!4v1698043396947!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <iframe width="1280" height="640" src="https://www.youtube.com/embed/JaRlwGzJS-g" title="🇯🇵🗻最夢幻的富士山景點玩法，超簡單河口湖一日路線懶人包｜老辣妹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**預算**
+🥃 居酒屋 壱円堂
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1639.9686907825046!2d135.5110971!3d34.7067593!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e7b9211b2c7b%3A0xc132d6ae641ce70b!2z5bGF6YWS5bGLIOWjseWGhuWggg!5e0!3m2!1szh-TW!2sus!4v1698043981365!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### 预算
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/1-arZmm73yrK5RRVZmmdmKEpSpf3i_X553E1Dn_tTaqM/edit?usp=sharing" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+

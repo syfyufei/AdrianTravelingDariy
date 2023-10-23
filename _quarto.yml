@@ -16,13 +16,19 @@ book:
     - Japan.qmd
     - Korea.qmd
     - references.qmd
+    
+runtime: shiny
 
 bibliography: AdrianDairyTraveling.bib
 
 format:
   html:
     theme: cosmo
-#  pdf:#   documentclass: ctexart#   papersize: a4#   keep-md: true#   keep-tex: false
+#  pdf:
+#   documentclass: ctexart
+#   papersize: a4
+#   keep-md: true
+#   keep-tex: false
 
 editor: visual
 
