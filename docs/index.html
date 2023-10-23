@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.333">
+<meta name="generator" content="quarto-1.4.14">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -240,7 +240,7 @@ div.csl-indent {
 <p>我們在“層層加碼”的封控政策和“政治抑鬱”中掙扎， 但回憶時卻幾乎完全不剩下什麼。 封控政策在一朝一夕間快速結束，但很多事情悄然間讓國人習以為然：對強大政府的依賴、對封鎖的合理化、對外界的近乎自然的排斥。</p>
 <p>2023年4月，在經歷了3年的疫情封鎖後，我在“後疫情”第一次出走。 如果說Penang的海是為了一場不那麼容易的告別，那當我收拾行李飛往ChiangMai的時候，我想我已經準備好了一段只屬於我自己的旅程。</p>
 <p>走出去，和過去的人告別：</p>
-<p>開始的時候是為了向別人證明，我不是你刻板印象中的那樣，但自己也那不準，我是不是真的就是那樣？ 後來卻發現，我真的不能被任何人定義。別TM告訴我我是哪樣。</p>
+<p>開始的時候是為了向別人證明，我不是你刻板印象中的那樣，但自己也拿不準，我是不是真的就是那樣？ 後來卻發現，我真的不能被任何人定義。別TM告訴我我是哪樣。</p>
 <p>走出去，和“祖國”告別：</p>
 <p>還沒放下憤怒，但至少變得冷漠。</p>
 <p>走出去，“在田野上遊蕩，狼吞虎嚥著所看到的四處的一切。” <span class="citation" data-cites="Pirsig1974">(<a href="references.html#ref-Pirsig1974" role="doc-biblioref">Pirsig 1974</a>)</span></p>
@@ -369,6 +369,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, function() {
+      let href = xref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children.length > 2) {
+          for (let i = 0; i < 2; i++) {
+            container.appendChild(note.children[i].cloneNode(true));
+          }
+          return container.innerHTML
+        } else {
+          return note.innerHTML;
+        }
+      } else {
+        return note.innerHTML;
+      }
     });
   }
       let selectedAnnoteEl;
