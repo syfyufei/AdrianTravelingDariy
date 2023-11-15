@@ -23,7 +23,7 @@ p_load(ggplot2)
 
 在办日本签证的时候，正是日本准备将福岛核废水排进太平洋的时候，彼时的日本在中国官方媒体和官方主导的社会舆论中舆论差到了谷底， 连日本大使馆也被中国各级安全保卫力量（红袖标、警察、武警）保卫的滴水不漏， 让去递签的我充满了压力哈哈哈哈哈哈。 但也因此日本签证的代理费也大大缩水，单次的旅行签证只需要200余元。
 
-!["日本核污水排海"影响下重兵把守的日本国驻北京大使馆](https://i.imgur.com/0tuUpGy.jpg){#fig-JapanEmbassy} 
+!["日本核污水排海"影响下重兵把守的日本国驻北京大使馆](https://i.imgur.com/0tuUpGy.jpg){#fig-JapanEmbassy}
 
 ### 行前准备
 
@@ -33,13 +33,17 @@ p_load(ggplot2)
 
 ### To do
 
-- [ ] 入境JR PASS贴纸
+-   [ ] 入境JR PASS贴纸
 
-- [ ] [取Sunrise-Seto (SOLO)車票](https://www.westjr.co.jp/global/tc/howto/train-reservation/receive/)
+-   [ ] [取Sunrise-Seto (SOLO)車票](https://www.westjr.co.jp/global/tc/howto/train-reservation/receive/) Reservation No.40659
+
+- [ ] 上车后先到10号车厢买Shower Ticket
+
+-   [ ] 买羽绒服
 
 ### 住宿
 
-OSAKA -> YOKOHAMA
+OSAKA -\> YOKOHAMA
 
 00:33 - 06:44
 
@@ -51,29 +55,150 @@ Sunrise-Seto (SOLO) 出雲號 10 號車 8號 B臥舖/禁菸包廂
 
 🚆 大阪机场-いさりび 5:00 PM - 6:30 PM
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d210321.4937917975!2d135.213529077454!3d34.546633993613405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x6000b91323cdfaf7%3A0xf171a79f8d908f88!2z6Zec6KW_5ZyL6Zqb5qmf5aC0IChLSVgpMSBTZW5zaHVrdWtva2l0YSwgSXp1bWlzYW5vLCBPc2FrYSA1NDktMDAwMQ!3m2!1d34.434863899999996!2d135.2328698!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2z5aSn6Ziq5bqc5aSn6Ziq5biC5YyX5Y2AIFNoaWJhdGEsIDEgQ2hvbWXiiJI14oiSMTIg54KJ44Gw44Gf54S8IOa8geeBqyjjgYTjgZXjgorjgbMp!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sjp!4v1698050096711!5m2!1szh-TW!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d210321.4937917975!2d135.213529077454!3d34.546633993613405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x6000b91323cdfaf7%3A0xf171a79f8d908f88!2z6Zec6KW_5ZyL6Zqb5qmf5aC0IChLSVgpMSBTZW5zaHVrdWtva2l0YSwgSXp1bWlzYW5vLCBPc2FrYSA1NDktMDAwMQ!3m2!1d34.434863899999996!2d135.2328698!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2z5aSn6Ziq5bqc5aSn6Ziq5biC5YyX5Y2AIFNoaWJhdGEsIDEgQ2hvbWXiiJI14oiSMTIg54KJ44Gw44Gf54S8IOa8geeBqyjjgYTjgZXjgorjgbMp!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sjp!4v1698050096711!5m2!1szh-TW!2sjp" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 
 🥣 Isaribi 炉ばた焼 漁火(いさりび)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6560.370318887229!2d135.48695450051125!3d34.70050949167895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6000e65fe630e79d%3A0x8f280adc19c4ecbf!2sGuesthouse%20U-en%2C%202%20Chome-9-23%20Fukushima%2C%20Fukushima%20Ward%2C%20Osaka%2C%20553-0003%E6%97%A5%E6%9C%AC!3m2!1d34.694642699999996!2d135.486586!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2zUm9iYXRheWFraSBJc2FyaWJpLCAxIENob21lLTUtMTIgU2hpYmF0YSwg5YyX5Y2A5aSn6Ziq5biC5aSn6Ziq5bqc5pel5pys!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sus!4v1697779928147!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6560.370318887229!2d135.48695450051125!3d34.70050949167895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x6000e65fe630e79d%3A0x8f280adc19c4ecbf!2sGuesthouse%20U-en%2C%202%20Chome-9-23%20Fukushima%2C%20Fukushima%20Ward%2C%20Osaka%2C%20553-0003%E6%97%A5%E6%9C%AC!3m2!1d34.694642699999996!2d135.486586!4m5!1s0x6000e691cfeb0355%3A0xbb843c72ac70e1f9!2zUm9iYXRheWFraSBJc2FyaWJpLCAxIENob21lLTUtMTIgU2hpYmF0YSwg5YyX5Y2A5aSn6Ziq5biC5aSn6Ziq5bqc5pel5pys!3m2!1d34.706423699999995!2d135.4975533!5e0!3m2!1szh-TW!2sus!4v1697779928147!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 
 ![](https://i.imgur.com/mGwTlAI.png){#fig-1stDayDinner}
 
 🥃 C.STAND
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d820.0239158754238!2d135.5026602!3d34.702767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71ae1f13399%3A0x63331607da454923!2sC.STAND!5e0!3m2!1szh-TW!2sus!4v1698043396947!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d820.0239158754238!2d135.5026602!3d34.702767!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71ae1f13399%3A0x63331607da454923!2sC.STAND!5e0!3m2!1szh-TW!2sus!4v1698043396947!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 
 🥃 居酒屋 壱円堂
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1639.9686907825046!2d135.5110971!3d34.7067593!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e7b9211b2c7b%3A0xc132d6ae641ce70b!2z5bGF6YWS5bGLIOWjseWGhuWggg!5e0!3m2!1szh-TW!2sus!4v1698043981365!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1639.9686907825046!2d135.5110971!3d34.7067593!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e7b9211b2c7b%3A0xc132d6ae641ce70b!2z5bGF6YWS5bGLIOWjseWGhuWggg!5e0!3m2!1szh-TW!2sus!4v1698043981365!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
 
 ### 预算
 
-<iframe src="https://docs.google.com/spreadsheets/d/1-arZmm73yrK5RRVZmmdmKEpSpf3i_X553E1Dn_tTaqM/edit?usp=sharing" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1-arZmm73yrK5RRVZmmdmKEpSpf3i_X553E1Dn_tTaqM/edit?usp=sharing" width="1000" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 
+</iframe>
 
+## 第二日：横滨 Yokohama & 鎌倉 Kamakura
 
+<iframe width="1022" height="511" src="https://www.youtube.com/embed/MluzdR_J4y0" width="600" height="450" title="🇯🇵2023 NEW 東京近郊最浪漫的城市就是橫濱了啦！｜老辣妹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
+</iframe>
 
+### To do
 
+### 住宿
 
+Trawl Koshigoe, Kamakura
+
+### 行程
+
+**橫濱站 - 紅磚倉庫**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d26004.74170763622!2d139.63066923164763!3d35.44011804318116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x60185c0df6cfd2f1%3A0xbbbca6f36b5235f5!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC6KW_5Y2A6auY5bO255S65Lqk5beu54K5IDIgQ2hvbWXiiJIxNiwg5qmr5r-x!3m2!1d35.4659811!2d139.622062!4m5!1s0x60185c563bd0682f%3A0x54bb4ea9607510ea!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC5Lit5Y2AIFNoaW5rxY0sIDEgQ2hvbWXiiJIx4oiS55Wq57SF56Oa5YCJ5bqr5YWs5ZyS!3m2!1d35.453265099999996!2d139.6440139!5e0!3m2!1szh-TW!2sus!4v1700047385651!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+**紅磚倉庫 - 元町·中華街**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6500.52344399836!2d139.64070975058613!3d35.44831449065324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x60185c563bd0682f%3A0x54bb4ea9607510ea!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC5Lit5Y2AIFNoaW5rxY0sIDEgQ2hvbWXiiJIx4oiS55Wq57SF56Oa5YCJ5bqr5YWs5ZyS!3m2!1d35.453265099999996!2d139.6440139!4m5!1s0x60185d1df91d7985%3A0x963c87a4ddfa7260!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC5Lit5Y2AIFlhbWFzaGl0YWNoxY0sIOWFg-eUuuODu-S4reiPr-ihl-mnhQ!3m2!1d35.442785799999996!2d139.64999559999998!5e0!3m2!1szh-TW!2sus!4v1700047930325!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+早餐：[Elysee しょうゆきゃふぇ元町](https://goo.gl/maps/bGewaMwQFXRi7Xns9) 生鸡蛋布丁
+
+**元町·中華街 - Center Grill センターグリル**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6591.437058431544!2d139.6357771141918!3d35.44624147866557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x60185d1df91d7985%3A0x963c87a4ddfa7260!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC5Lit5Y2AIFlhbWFzaGl0YWNoxY0sIOWFg-eUuuODu-S4reiPr-ihl-mnhQ!3m2!1d35.442785799999996!2d139.64999559999998!4m5!1s0x60185cf55cc8a2e1%3A0x43e71dbfe778128d!2z5pel5pys56We5aWI5bed57ij5qmr5r-x5biC5Lit5Y2AIEhhbmFzYWtpY2jFjSwgMSBDaG9tZeKIkjkg44K744Oz44K_44O844Kw44Oq44Or!3m2!1d35.4474948!2d139.63105009999998!5e0!3m2!1szh-TW!2sus!4v1700048439321!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+午餐：[Center Grill センターグリル](https://goo.gl/maps/xn2DCTHRDbhmWFTk8) 日式拿波里義大利麵 & 日式蛋包飯
+
+**Center Grill センターグリル - 小町通**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d104096.8404496568!2d139.50087791239443!3d35.379804579158986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x60185cf55cc8a2e1%3A0x43e71dbfe778128d!2sCenter%20Grill%2C%201%20Chome-9%20Hanasakicho%2C%20Naka%20Ward%2C%20Yokohama%2C%20Kanagawa%20231-0063%E6%97%A5%E6%9C%AC!3m2!1d35.4474948!2d139.63105009999998!4m5!1s0x601845ea44c9ab2f%3A0x1bde11dc6067612b!2z5bCP55S66YCaIOaXpeacrOOAkjI0OC0wMDA2IEthbmFnYXdhLCBLYW1ha3VyYSwgS29tYWNoaSwgMQ!3m2!1d35.3223351!2d139.5527343!5e0!3m2!1szh-TW!2sus!4v1700053852926!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+-   小町通
+
+    -   [牛兵衛](https://goo.gl/maps/iMp8EABYup3HVBac8)
+
+    -   [Giraffa(ジラッファ)カレーパン専門店](https://goo.gl/maps/UUBwqzTvanZFsGMa9)
+
+    -   [ともや 鎌倉小町店](https://goo.gl/maps/pmzYmBj6BCbbwmkf6)
+
+**小町通 - 錢洗弁財天宇賀福神社**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3255.3377199080355!2d139.5448951273163!3d35.32243422270523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x601845ea44c9ab2f%3A0x1bde11dc6067612b!2z5bCP55S66YCaIOaXpeacrOOAkjI0OC0wMDA2IEthbmFnYXdhLCBLYW1ha3VyYSwgS29tYWNoaSwgMQ!3m2!1d35.3223351!2d139.5527343!4m5!1s0x601845914191351b%3A0xad54ed3e620a6715!2z6Yyi5rSX5byB6LKh5aSp5a6H6LOA56aP56We56S-IDIgQ2hvbWUtMjUtMTYgU2FzdWtlLCBLYW1ha3VyYSwgS2FuYWdhd2EgMjQ4LTAwMTfml6XmnKw!3m2!1d35.3256988!2d139.5422058!5e0!3m2!1szh-TW!2sus!4v1700054014636!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+**錢洗弁財天宇賀福神社 - 江ノ島小屋**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d52066.19315988434!2d139.46913620017492!3d35.35224440981977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x601845914191351b%3A0xad54ed3e620a6715!2z6Yyi5rSX5byB6LKh5aSp5a6H6LOA56aP56We56S-IDIgQ2hvbWUtMjUtMTYgU2FzdWtlLCBLYW1ha3VyYSwgS2FuYWdhd2EgMjQ4LTAwMTfml6XmnKw!3m2!1d35.3256988!2d139.5422058!4m5!1s0x60184efc80e055bf%3A0xcb660167a9e042d!2z5pel5pys56We5aWI5bed57ij6Jek5r6k5biC54mH54Co5rW35bK4IDIgQ2hvbWXiiJIyMOKIkjEy5rW36a6uIOaxn-S5i-WztuWwj-Wxiw!3m2!1d35.3076745!2d139.4825353!5e0!3m2!1szh-TW!2sus!4v1700054175273!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+晚餐：江ノ島小屋
+
+🌄下午4:32 [稚児ヶ淵](https://goo.gl/maps/9AszXnmbxabedooJA)
+
+⛩️[江島神社 邊津宮](https://goo.gl/maps/QhHqNj6obngVz6T67)
+
+🌃[江の島シーキャンドル](https://goo.gl/maps/FPgweGiZVGoGjXir6)
+
+🌮[章魚煎餅 あさひ本店](https://goo.gl/maps/rGi4ydeVQpe5Ww3U9)
+
+**章魚煎餅 あさひ本店 - Trawl Koshigoe, Kamakura**
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6512.006341786212!2d139.48149180057175!3d35.305902690842885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x60184ee43ed1b7d1%3A0xbc583a6373dc1c3e!2z56ug6a2a54WO6aSFIOacneaXpeacrOW6lyAxIENob21lLTQtMTAgRW5vc2hpbWEsIEZ1amlzYXdhLCBLYW5hZ2F3YSAyNTEtMDAzNuaXpeacrA!3m2!1d35.3009468!2d139.480538!4m5!1s0x60184fafcc40c2e5%3A0xb654704d61b29826!2z5pel5pys56We5aWI5bed57ijIEthbWFrdXJhLCBLb3NoaWdvZTMgQ2hvbWXiiJIyN-KIkjE2IFRyYXdsIOODiOODreODvOODqw!3m2!1d35.310062099999996!2d139.4927511!5e0!3m2!1szh-TW!2sus!4v1700055023106!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+### 预算
+
+<iframe src="https://docs.google.com/spreadsheets/d/1-arZmm73yrK5RRVZmmdmKEpSpf3i_X553E1Dn_tTaqM/edit?usp=sharing" width="1000" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+## 第三日 東京
+
+### 住宿：CITAN HOSTEL
+
+https://www.youtube.com/watch?v=6iybMs25qJs
+
+https://www.youtube.com/watch?v=-YfGCymo06o
+
+https://www.youtube.com/watch?v=aznV27VT6qg
+
+https://www.youtube.com/watch?v=biIFlLcCZYY
+
+https://www.youtube.com/watch?v=qZo9FVbkspw
+
+https://www.youtube.com/watch?v=q4SexCuAfM8
+
+https://www.youtube.com/watch?v=eSmTRC6mt4I
+
+## 第四日 河口湖
+
+### 住宿：Kagelow
+
+## 第五日：河口湖
+
+highwaybus
+
+https://www.highwaybus.com/gp/inbound/inbWebticketPrint?98fcb09640414448bacb88eca0eabdfd&lang=CZ1&ticket_type=mobile
+
+## 第六日：東京
+
+06:44 镰仓 - 江之岛
+
+## 第三日：
