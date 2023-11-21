@@ -27,7 +27,7 @@ p_load(ggplot2)
 
 ### 行前准备
 
-![](https://s2.loli.net/2023/10/23/cqZ7ds8hLUGfiSg.png){#fig-DaySummary}
+![](http://103.238.162.29:10002/webdav/Adrian/figure/Japan.png){#fig-DaySummary}
 
 ## 第一日：大阪 Osaka
 
@@ -189,16 +189,20 @@ https://www.youtube.com/watch?v=eSmTRC6mt4I
 
 ## 第四日 河口湖
 
+highwaybus
+
+https://www.highwaybus.com/gp/inbound/inbWebticketPrint?98fcb09640414448bacb88eca0eabdfd&lang=CZ1&ticket_type=mobile
+
 ### 住宿：Kagelow
 
 ## 第五日：河口湖
 
-highwaybus
-
-https://www.highwaybus.com/gp/inbound/inbWebticketPrint?98fcb09640414448bacb88eca0eabdfd&lang=CZ1&ticket_type=mobile
+### 住宿：CITAN HOSTEL
 
 ## 第六日：東京
 
 06:44 镰仓 - 江之岛
 
-## 第三日：
+## 第七日：札幌
+
+Waya Hostel Sapporo
