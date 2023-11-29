@@ -43,7 +43,7 @@ p_load(ggplot2)
 
 ### 住宿
 
-OSAKA -\> YOKOHAMA
+OSAKA -> YOKOHAMA
 
 00:33 - 06:44
 
@@ -195,14 +195,58 @@ https://www.highwaybus.com/gp/inbound/inbWebticketPrint?98fcb09640414448bacb88ec
 
 ### 住宿：Kagelow
 
-## 第五日：河口湖
+## 第五日：Kawaguchiko - Tokyo
+
+### 10:18 [河口淺間神社遙拜所](https://maps.app.goo.gl/nPE9K4YGhLqQwn6R8)
+
+### 11:48 [金鸟居](https://maps.app.goo.gl/J5LVd323KwfniHyb6)
+
+### [富士下吉田本町二丁目商店街](https://maps.app.goo.gl/7H1rhj8sqPomR3M99)
+
+### [1352便 1号車 座位號碼:10B](https://maps.app.goo.gl/Mwp7TF8ibR7cYjhs8)
+
+[中央道下吉田 -> 新宿高速巴士總站(Busta新宿)](https://www.highwaybus.com/gp/inbound/inbWebticketPrint?34a87da7bd1b060b40f3e0e268509c12&lang=CZ1&ticket_type=mobile)
 
 ### 住宿：CITAN HOSTEL
 
 ## 第六日：東京
 
-06:44 镰仓 - 江之岛
+今天是修整日，結束關東之旅，準備一路向北到日本的最北端。
+
+### 兑换JR Pass
+
+早上睡到9:30，这大概是日本之行以来睡的第一个懒觉。
+Check-out出门，想說擔心兌換JR的時候出紕漏，那就先到东京车站兑换JR-PASS。
+JR Office的乘务姐姐英语真的好好，亦幫我兌換了從東京經新函館北斗專程到札幌的車票。
+車資是¥27760，这是我第一次兑换和搭乘JR Pass，也由此开启我的环日本铁路之旅。
+
+![JR Pass](http://103.238.162.29:10002/webdav/Adrian/figure/JRPass.jpeg)
+
+### Akihabara：“大人的百货商店”，坦诚后的坦然
+
+我住的Hostel距离秋叶原只有一站，轻车熟路来到著名的Akihabara，不得不说，日本在设计标牌时真的有一手。
+
+<iframe width="950" height="575" src="http://103.238.162.29:10002/webdav/Adrian/video/Akihabara.mp4" title="Akihabara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+时间紧迫，我只能选择一家商店深度逛。
+作为一个不谙世事男孩子，我毫不犹豫在“古着店”和“成人用品店”之间选择了成人用品店。
+“大人的百货商店”这个名字是真的好形象，大人比孩子多了一些欲望，但也多了好多规范，但是大人也需要玩具来玩。
+这家店就在秋叶原店边上，有整整6层楼的店铺。
+
+![JR Pass](http://103.238.162.29:10002/webdav/Adrian/figure/IMG_6030.jpeg)
+
+“Wow”这是上二楼之后一个身边的白人女生的感叹，也大概是我對這家店的印象吧，應有盡有，真的只能說是應有盡有。
+男生玩的、女生玩的、一起玩的，沒有任何下限，也沒有任何上限。
+如果說“我在日本展開了”，那在這家店裡大概就是“我立體了”。
+還好沒人審查，那我就放兩張照片感受一下。
+
 
 ## 第七日：札幌
+
+### 小樽
+
+### 旭川
+
+### 稚内
 
 Waya Hostel Sapporo
